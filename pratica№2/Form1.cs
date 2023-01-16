@@ -16,5 +16,15 @@ namespace pratica_2
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "Кнопка нажата";
+        }
     }
 }
