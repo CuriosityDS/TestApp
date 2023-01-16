@@ -1,0 +1,11 @@
+C:\Users\Илья\source\repos\pratica№2\pratica№2\bin\Debug\pratica№2.exe.config
+C:\Users\Илья\source\repos\pratica№2\pratica№2\bin\Debug\pratica№2.exe
+C:\Users\Илья\source\repos\pratica№2\pratica№2\bin\Debug\pratica№2.pdb
+C:\Users\Илья\source\repos\pratica№2\pratica№2\obj\Debug\pratica№2.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\pratica№2\pratica№2\obj\Debug\pratica№2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Илья\source\repos\pratica№2\pratica№2\obj\Debug\pratica_2.Form1.resources
+C:\Users\Илья\source\repos\pratica№2\pratica№2\obj\Debug\pratica_2.Properties.Resources.resources
+C:\Users\Илья\source\repos\pratica№2\pratica№2\obj\Debug\pratica№2.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\pratica№2\pratica№2\obj\Debug\pratica№2.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\pratica№2\pratica№2\obj\Debug\pratica№2.exe
+C:\Users\Илья\source\repos\pratica№2\pratica№2\obj\Debug\pratica№2.pdb
